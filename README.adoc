@@ -1,0 +1,16 @@
+
+
+= Datasets
+
+* Land Registry - offshore ownership - https://datasets.landregistry.gov.uk/overseas/dataset 
+* Land Registry - price paid - https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads
+* Could be combined with the Panama Papers dataset
+
+
+* Open Corporates / Open Ownership - https://api.opencorporates.com/documentation/API-Reference 
+* People with significant control - http://download.companieshouse.gov.uk/en_pscdata.html 
+* Companies House - https://developer.companieshouse.gov.uk/api/docs/ 
+* Could be combined with party donation data - http://search.electoralcommission.org.uk/ 
+
+
+
