@@ -1,16 +1,18 @@
+= GraphConnect Europe 2017 Hackathon
 
+== Main Datasets
 
-= Datasets
-
-* Land Registry - offshore ownership - https://datasets.landregistry.gov.uk/overseas/dataset 
+* Land Registry - offshore ownership - https://datasets.landregistry.gov.uk/overseas/dataset
 * Land Registry - price paid - https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads
 * Could be combined with the Panama Papers dataset
 
+* Open Corporates / Open Ownership - https://api.opencorporates.com/documentation/API-Reference
+* People with significant control - http://download.companieshouse.gov.uk/en_pscdata.html
+* Companies House - https://developer.companieshouse.gov.uk/api/docs/
+* Could be combined with party donation data - http://search.electoralcommission.org.uk/
 
-* Open Corporates / Open Ownership - https://api.opencorporates.com/documentation/API-Reference 
-* People with significant control - http://download.companieshouse.gov.uk/en_pscdata.html 
-* Companies House - https://developer.companieshouse.gov.uk/api/docs/ 
-* Could be combined with party donation data - http://search.electoralcommission.org.uk/ 
+== Other Ideas
 
-
-
+* Fake news - social media - https://www.kaggle.com/mrisdal/fake-news
+* TED - EU contract data - https://data.europa.eu/euodp/en/data/dataset/ted-1
+* Meetings at the cabinet office - https://www.gov.uk/government/collections/ministers-transparency-publications 
