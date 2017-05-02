@@ -1,5 +1,7 @@
 = GraphConnect Europe 2017 Hackathon
 
+This is the repository for the https://www.meetup.com/graphdb-london/events/237040841/[GraphConnect Europe 2017 Hackathon^].
+
 == Main Datasets
 
 * Land Registry - offshore ownership - https://datasets.landregistry.gov.uk/overseas/dataset
@@ -15,4 +17,4 @@
 
 * Fake news - social media - https://www.kaggle.com/mrisdal/fake-news
 * TED - EU contract data - https://data.europa.eu/euodp/en/data/dataset/ted-1
-* Meetings at the cabinet office - https://www.gov.uk/government/collections/ministers-transparency-publications 
+* Meetings at the cabinet office - https://www.gov.uk/government/collections/ministers-transparency-publications
