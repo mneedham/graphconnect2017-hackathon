@@ -2,6 +2,8 @@
 
 This is the repository for the https://www.meetup.com/graphdb-london/events/237040841/[GraphConnect Europe 2017 Hackathon^].
 
+Slides: https://docs.google.com/presentation/d/13XryO43gUFfWagYaqG8mfiaQGNosvXiny-s9R52aotc/edit#slide=id.g2112eeb8f0_0_21
+
 == Main Datasets
 
 * Land Registry - offshore ownership - https://datasets.landregistry.gov.uk/overseas/dataset
